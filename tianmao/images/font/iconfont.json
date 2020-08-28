@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5072128",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "5172786",
+      "name": "键盘",
+      "font_class": "keyboard",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "6240886",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "15685378",
+      "name": "个人头像",
+      "font_class": "gerentouxiang",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    }
+  ]
+}
